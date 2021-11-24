@@ -1,0 +1,42 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Society",
+      "Latin and Caribbean Studies"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ce86032f-5132-e821-cd04-f268905fb61d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Latin American Studies",
+  "course_description": "Interdisciplinary introduction to contemporary Latin America, drawing on films, literature, popular press accounts, and scholarly research. Topics include economic development, ethnic and racial identity, religion, revolution, democracy, transitional justice, and the rule of law. Examples draw on a range of countries in the region, especially Mexico, Chile, and Brazil. Includes a heavy oral participation component, with regular breakout groups, formal class presentations on pressing social issues (such as criminal justice and land tenure), and a structured class debate.\n",
+  "department_numbers": [
+    "17",
+    "21A",
+    "21G"
+  ],
+  "extra_course_numbers": "21A.130J (formerly 21A.430J),21G.084J",
+  "primary_course_number": "17.55J",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
